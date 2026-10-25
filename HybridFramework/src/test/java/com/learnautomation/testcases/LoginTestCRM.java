@@ -6,7 +6,7 @@ import com.learnautomation.pages.LoginPage;
 
 
 public class LoginTestCRM extends BaseClass {
-	
+	// new adding to check github
 	@Test(priority=0)
 	public void loginApp()
 	{
